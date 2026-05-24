@@ -1,0 +1,11 @@
+data/
+checkpoints/
+*.pt
+*.npz
+wandb/
+__pycache__/
+analysis_output/
+attention_analysis/
+error_analysis/
+*.png
+*.csv
